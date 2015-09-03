@@ -1,0 +1,1414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"answ",
+				"answers"
+			],
+			[
+				"question",
+				"question"
+			],
+			[
+				"quest",
+				"question"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"questio",
+				"questions"
+			],
+			[
+				"va",
+				"validation"
+			],
+			[
+				"validat",
+				"validation"
+			],
+			[
+				"your",
+				"your_questions"
+			],
+			[
+				"vali",
+				"validation"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"to",
+				"to_route"
+			],
+			[
+				"vaid",
+				"validation"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"tye",
+				"type"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"php",
+				"php	php"
+			],
+			[
+				"assc",
+				"assc	assertContains"
+			],
+			[
+				"ass",
+				"assio	assertInstanceOf"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"list",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"con",
+				"contents"
+			],
+			[
+				"exchange",
+				"exchange"
+			],
+			[
+				"shoud",
+				"should"
+			],
+			[
+				"exch",
+				"exchangeData"
+			],
+			[
+				"ex",
+				"exchangeData"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"mon",
+				"mongoose"
+			],
+			[
+				"re",
+				"req"
+			],
+			[
+				"categ",
+				"category_id"
+			],
+			[
+				"recipe",
+				"recipe_id"
+			],
+			[
+				"st",
+				"stmt"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"pre",
+				"prepare"
+			],
+			[
+				"rec",
+				"recipe"
+			],
+			[
+				"s",
+				"stmt"
+			],
+			[
+				"db",
+				"db_conn"
+			],
+			[
+				"__",
+				"__sleep"
+			],
+			[
+				"fpu",
+				"fputs"
+			],
+			[
+				"h",
+				"home_country"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"retr",
+				"return"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"cla",
+				"class	class …"
+			],
+			[
+				"we",
+				"weight"
+			],
+			[
+				"target",
+				"target_path"
+			],
+			[
+				"tag",
+				"target_path"
+			],
+			[
+				"Photo",
+				"Photograph"
+			],
+			[
+				"targe",
+				"target_path"
+			],
+			[
+				"temp",
+				"temp_path"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"tem",
+				"temp_path"
+			],
+			[
+				"attribut",
+				"attributes"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"attr",
+				"attribute_pairs"
+			],
+			[
+				"arr",
+				"array_keys"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"attribute",
+				"attribute"
+			],
+			[
+				"attrib",
+				"attributes"
+			],
+			[
+				"globa",
+				"global"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"esca",
+				"escape_value"
+			],
+			[
+				"glob",
+				"global"
+			],
+			[
+				"gl",
+				"global"
+			],
+			[
+				"lo",
+				"logfile"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"defin",
+				"define"
+			],
+			[
+				"define",
+				"defined"
+			],
+			[
+				"glo",
+				"globals	$GLOBALS['…']"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"found",
+				"found_user"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"logged",
+				"logged_in"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"logge",
+				"logged_in"
+			],
+			[
+				"logg",
+				"logged_in"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"clas",
+				"class_name"
+			],
+			[
+				"array_s",
+				"array_shift"
+			],
+			[
+				"resu",
+				"result_array"
+			],
+			[
+				"ob",
+				"object_array"
+			],
+			[
+				"obj",
+				"object_array"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			],
+			[
+				"mysql_p",
+				"mysql_prep"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/views/users/new.blade.php",
+			"settings":
+			{
+				"buffer_size": 1646,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"script",
+				"File: Copy as Tag script"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"synbla",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"sni",
+				"Snippet: <script src=\"\"><:script>"
+			],
+			[
+				"snip",
+				"Snippet: <script src=\"\"><:script>"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"file copy",
+				"File: Copy as Tag style"
+			],
+			[
+				"path",
+				"File: Copy Path From Project"
+			],
+			[
+				"proje",
+				"Project: Edit"
+			],
+			[
+				"proj",
+				"Project: Edit"
+			],
+			[
+				"sleect ",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"edit ",
+				"Project: Edit"
+			],
+			[
+				"pro",
+				"Project: Edit"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"copy",
+				"File: Copy as Tag script"
+			],
+			[
+				"copy ",
+				"File: Copy Path From Project"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lint di",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"conv",
+				"Convert Case: Title Case"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"case",
+				"Convert Case: Upper Case"
+			],
+			[
+				"conve",
+				"Convert Case: Swap Case"
+			],
+			[
+				"colo",
+				"ColorSchemeSelector: Previous Color Scheme"
+			],
+			[
+				"theme",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"htt",
+				"HTTP Requester"
+			],
+			[
+				"http",
+				"HTTP Requester"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"task",
+				"Tasks: New"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"updat",
+				"Gist: Update File"
+			],
+			[
+				"gis",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gi",
+				"Gist: Create Public Gist"
+			],
+			[
+				"synht",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint Current File"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"clrssel",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"schem ",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"scheme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"fetch ",
+				"Fetch: Package"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"html ",
+				"Set Syntax: HTML"
+			],
+			[
+				"snippet jq",
+				"Snippet: jQuery on handler"
+			],
+			[
+				"jquer",
+				"Snippet: jQuery on handler"
+			],
+			[
+				"jq",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippe",
+				"Snippet: Object Value JS"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"snipp",
+				"Snippet: log"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"toggle ",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"jaca",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"a",
+				"About"
+			],
+			[
+				"amrk",
+				"Set Syntax: Markdown"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"oack",
+				"Package Control: Install Package"
+			],
+			[
+				"doc",
+				"Snippet: Start Docblock"
+			],
+			[
+				"ad",
+				"Snippet: Start Docblock"
+			],
+			[
+				"set sy as",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"set j",
+				"Set Syntax: JSON"
+			],
+			[
+				"se php",
+				"Set Syntax: PHP"
+			],
+			[
+				"",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 181.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/tenantplus/application/models/user.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/routes.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/controllers/users.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/views/users/new.blade.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/migrations/2013_06_04_140905_create_login_logs_table.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/migrations/2013_06_04_140905_create_loginlogs_table.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/migrations/2013_06_04_140905_create_login_table.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/views/home/index.blade.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/views/layouts/default.blade.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/views/documents/show.blade.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/views/home/index2.blade.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/views/home/indexNW.blade.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/migrations/2013_06_02_190808_create_responses_table.php",
+		"/Applications/MAMP/htdocs/tenantplusAPP/application/migrations/2013_06_02_190808_create_responses_table.php",
+		"/Applications/MAMP/htdocs/tenantplusAPP/application/migrations/2013_06_02_152231_create_forms_table.php",
+		"/Applications/MAMP/htdocs/tenantplusAPP/application/migrations/2013_06_02_130020_create_users_table.php",
+		"/Applications/MAMP/htdocs/tenantplusAPP/application/migrations/2013_06_02_153044_create_form_fields_table.php",
+		"/Applications/MAMP/htdocs/tenantplusAPP/application/migrations/2013_06_02_152637_add_description_column_on_forms_table.php",
+		"/Applications/MAMP/htdocs/tenantplusAPP/application/views/landlords/index.blade.php",
+		"/Applications/MAMP/htdocs/tenantplusAPP/application/views/home/index.blade.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/controllers/users.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/routes.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/controllers/questions.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/views/questions/results.blade.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/models/question.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/views/layouts/default.blade.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/views/questions/index.blade.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/views/questions/view.blade.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/public/css/main.css",
+		"/Applications/MAMP/htdocs/makeitsnappy/public/js/application.js",
+		"/Applications/MAMP/htdocs/makeitsnappy/storage/views/c03748563a6c85595afd95b5ecf3bd4d",
+		"/Applications/MAMP/htdocs/makeitsnappy/laravel/str.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/laravel/pluralizer.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/controllers/answers.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/models/answer.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/models/user.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/migrations/2013_06_02_031920_create_answers_table.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/views/questions/your_questions.blade.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/views/questions/edit.blade.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/laravel/form.php",
+		"/Users/Andy/Desktop/2010-02-17 01:50:14",
+		"/Applications/MAMP/htdocs/makeitsnappy/laravel/auth.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/storage/views/989c610dbebca0d052f40bb422ebd6a7",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/views/users/new.blade.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/config/auth.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/views/users/login.blade.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/migrations/2013_05_28_050037_create_questions_table.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/laravel/auth/drivers/eloquent.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/laravel/auth/drivers/driver.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/migrations/2013_05_28_031920_add_landlord_boolean_column_on_users_table.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/migrations/2013_05_28_034154_add_admin_boolean_to_users_table.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/laravel/vendor/Symfony/Component/HttpFoundation/File/MimeType/ExtensionGuesserInterface.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/models/basemodel.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/models/model.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/laravel/input.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/laravel/documentation/profiler.md",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/migrations/2013_05_27_031452_create_users_table.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/laravel/validator.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/config/database.php",
+		"/Applications/MAMP/htdocs/makeitsnappy/application/config/application.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/config/application.php",
+		"/Applications/MAMP/htdocs/tenantplus/laravel/form.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/tasks/generate.php",
+		"/Applications/MAMP/htdocs/tenantplus/laravel/html.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/views/user/edit.blade.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/views/user/show.blade.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/views/master.blade.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/migrations/2013_05_23_155820_add_name_column_to_users_table.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/migrations/2013_05_23_111906_create_users_table.php",
+		"/Applications/MAMP/htdocs/tenantplus/application/config/database.php",
+		"/Applications/MAMP/htdocs/LandLordApp/inc.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/landlords/signup.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/landlords/view_tenency_application.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/site_structure.txt",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/tenants/application_form.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/welcome.php",
+		"/Applications/MAMP/htdocs/LandLordApp/bootstrap/js/jquery.js",
+		"/Applications/MAMP/htdocs/LandLordApp/bootstrap/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/tenants/edit_tenancy_application.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/tenants/dashboard.php",
+		"/Applications/MAMP/htdocs/joomla/configuration.php",
+		"/Users/Andy/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/landlords/email_application.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/landlords/new_property.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/landlords/edit_property.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/landlords/manage_applications.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/landlords/manage_properties.php",
+		"/Applications/MAMP/htdocs/LandLordApp/ideas.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/landlords/manage_tenant.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/landlords/manage_flat.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/tenants/signUpOrIn.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/landlords/generate_url.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/tenants/apply.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/tenants/edit_account.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/tenants/details.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/tenants/account_details.php",
+		"/Users/Andy/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/tenant/apply.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/tenant/signUpOrIn.php",
+		"/Users/Andy/Library/Application Support/Sublime Text 2/Packages/User/HTML/dummy_copy.sublime-snippet",
+		"/Applications/MAMP/htdocs/LandLordApp/landlord_signup.php",
+		"/Applications/MAMP/htdocs/LandLordApp/landlordapp.sublime-project",
+		"/Applications/MAMP/htdocs/LandLordApp/flow/tenant/details.php",
+		"/Applications/MAMP/htdocs/LandLordApp/flat_mgmt.php",
+		"/Applications/MAMP/htdocs/LandLordApp/form.php",
+		"/Applications/MAMP/htdocs/LandLordApp/landlords/manage_properties.php",
+		"/Applications/MAMP/htdocs/LandLordApp/landlords/signup.php",
+		"/Applications/MAMP/htdocs/LandLordApp/landlords_manage_properties.php",
+		"/Applications/MAMP/htdocs/LandLordApp/tenants_signup.php",
+		"/Users/Andy/Projects/sample/blog/wp-includes/css/admin-bar.css",
+		"/Users/Andy/Projects/sample/my-theme.sublime-project",
+		"/Users/Andy/Projects/sample/blog/wp-content/themes/twentytwelve/content-aside.php",
+		"/Users/Andy/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Andy/Projects/sample/blog/wp-mail.php",
+		"/Users/Andy/Projects/sample/blog/wp-blog-header.php",
+		"/Users/Andy/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Andy/Projects/sample/blog/index.php",
+		"/Users/Andy/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Andy/Projects/sample/blog/buttons.css",
+		"/Users/Andy/Projects/sample/blog/wp-content/themes/twentyeleven/editor-style.css",
+		"/Users/Andy/Projects/sample/markdownfile.md",
+		"/Users/Andy/Projects/sample/script.js",
+		"/Users/Andy/Projects/sample/js/module.js",
+		"/Users/Andy/Projects/sample/css/style.css",
+		"/Users/Andy/Projects/sample/index.html",
+		"/Users/Andy/Projects/sample/html/index.html",
+		"/Users/Andy/Library/Application Support/Sublime Text 2/Packages/AutoPHPDollar/package-metadata.json",
+		"/Users/Andy/Projects/sample/js/test.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"email",
+			"forms",
+			"p",
+			"li",
+			"question",
+			"questions",
+			"answers",
+			"style",
+			"span",
+			"#search",
+			"question",
+			"p",
+			"update",
+			"false",
+			"Question",
+			"question",
+			"first",
+			"your_questions",
+			"p",
+			"username",
+			"question",
+			"questions",
+			"Login",
+			"password",
+			"username",
+			"text",
+			"Username",
+			"Register",
+			"Login",
+			"post_register",
+			"username",
+			"POST",
+			"username",
+			"users",
+			"Home",
+			"header",
+			"end",
+			"index",
+			"text",
+			"email",
+			"first_name",
+			"TenantPlus",
+			"password",
+			"ie'",
+			"database",
+			"=\"#\"",
+			"he",
+			"hell",
+			"Hell",
+			"primary",
+			"button",
+			".button",
+			"h1",
+			"text",
+			"h2",
+			"h3",
+			"two",
+			"one",
+			"name",
+			"line",
+			"DOCTYPE",
+			"(?<=<h2>).+(?=</h2>)",
+			"<h2>.+</h2>",
+			"- ",
+			"theme",
+			"p",
+			"var",
+			"person",
+			"andy",
+			"room_array",
+			"room_",
+			"room_array",
+			"added",
+			"time",
+			"\n ",
+			"The",
+			"Thed",
+			"The",
+			"t",
+			"andy",
+			"name",
+			"print_r",
+			"define",
+			"file_get_contents",
+			"fopen",
+			"output_message",
+			"<?",
+			"upload_",
+			"font_face",
+			"php",
+			"path",
+			"self"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/views/users/new.blade.php",
+					"settings":
+					{
+						"buffer_size": 1646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rou",
+				"application/routes.php"
+			],
+			[
+				"inbla",
+				"application/views/questions/index.blade.php"
+			],
+			[
+				"model/qu",
+				"application/models/question.php"
+			],
+			[
+				"cont/q",
+				"application/controllers/questions.php"
+			],
+			[
+				"def",
+				"application/views/layouts/default.blade.php"
+			],
+			[
+				"c03748563a6c85595afd95b5ecf3bd4d",
+				"storage/views/c03748563a6c85595afd95b5ecf3bd4d"
+			],
+			[
+				"plur",
+				"laravel/pluralizer.php"
+			],
+			[
+				"str",
+				"laravel/str.php"
+			],
+			[
+				"ques",
+				"application/controllers/questions.php"
+			],
+			[
+				"views/bla",
+				"application/views/questions/edit.blade.php"
+			],
+			[
+				"form",
+				"laravel/form.php"
+			],
+			[
+				"au",
+				"laravel/auth.php"
+			],
+			[
+				"de",
+				"application/views/layouts/default.blade.php"
+			],
+			[
+				"dri",
+				"laravel/auth/drivers/driver.php"
+			],
+			[
+				"elo",
+				"laravel/auth/drivers/eloquent.php"
+			],
+			[
+				"auth",
+				"laravel/auth.php"
+			],
+			[
+				"app/views",
+				"application/views/users/new.blade.php"
+			],
+			[
+				"new",
+				"application/views/users/new.blade.php"
+			],
+			[
+				"in",
+				"laravel/input.php"
+			],
+			[
+				"pro",
+				"laravel/documentation/profiler.md"
+			],
+			[
+				"vali",
+				"laravel/validator.php"
+			],
+			[
+				"html",
+				"laravel/html.php"
+			],
+			[
+				"applic",
+				"flow/tenants/application_form.php"
+			],
+			[
+				"das",
+				"flow/tenants/dashboard.php"
+			],
+			[
+				"app",
+				"flow/tenants/apply.php"
+			],
+			[
+				"gen",
+				"flow/landlords/generate_url.php"
+			],
+			[
+				"sig",
+				"flow/landlords/signup.php"
+			],
+			[
+				"ema",
+				"flow/landlords/email_application.php"
+			],
+			[
+				"inc",
+				"inc.php"
+			],
+			[
+				"",
+				"index.html"
+			],
+			[
+				"html/in",
+				"html/index.html"
+			],
+			[
+				"main",
+				"html5/css/main.css"
+			],
+			[
+				"inde",
+				"html5/index.html"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"in/db",
+				"includes/class.database.php"
+			],
+			[
+				"my",
+				"mysql.sql"
+			],
+			[
+				"db",
+				"includes/class.dbloop.php"
+			],
+			[
+				"_1/",
+				"Chap_1/magic_call_callstatic.php"
+			],
+			[
+				"chap_1/",
+				"Chap_1/get and set superglobals.php"
+			],
+			[
+				"test",
+				"API/test.js"
+			],
+			[
+				"curl",
+				"API/curl script.txt"
+			],
+			[
+				"api/",
+				"API/http_headers.php"
+			],
+			[
+				"api/htt",
+				"API/http_headers.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/sublime_settings/photo_gallery.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 395.0,
+	"status_bar_visible": true
+}

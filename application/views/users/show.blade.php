@@ -1,0 +1,1 @@
+This is the /Applications/MAMP/htdocs/tenantplus/application/views/user/show.blade.php view
