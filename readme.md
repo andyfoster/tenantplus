@@ -1,22 +1,6 @@
-# [Laravel](http://laravel.com) Quickstart for [Pagodabox](https://pagodabox.com/)
+# TenantPlus
+##TenantPlus takes the hassle out of managing the applications for rental properties.
 
-Get a copy of Laravel running on Pagodabox in seconds.
+Instead of manually collecting application forms from each of the prospective tenants, the landlord can give each tenant a link to their private page where they can each enter their information in a cusomisable form. The landlord can then review each one and send to their lawyers etc for further review and filing.
 
-Based on the Boxfile method from: http://forums.laravel.com/viewtopic.php?id=890
-
-[Official Laravel Website & Documentation](http://laravel.com)
-
-[Official Pagodabox Website & Documentation](https://pagodabox.com/)
-
-## Usage
-
-- Install the quickstart on Pagodabox
-- Clone the repo on your machine
-- Open up Boxfile and modify the web1 name
-
-``web1:
-  name: YOUR_APP_NAME``
-
-## Features
-
-- Laravel 3.2.5
+This is written in an older version of Laravel and needs some substantial changes to be able to be used with the current release of Laravel. It works though.
